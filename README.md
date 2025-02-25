@@ -6,7 +6,10 @@ Computer Science Student @ UTRGV | Research Assistant @ Multiple Autonomous Robo
 
 * 🌍  I'm based in Mcallen, TX
 * ✉️  You can contact me at [p.biteng11@gmail.com](mailto:p.biteng11@gmail.com)
-* 🧠  I'm learning next.js
+* 🧠  Planning out notes taking app for Pre-Med students that leverages AI to help with studying.
+       Current AI features planned:  * Anki generated falshcard set from notes
+                                     * Summarization of selected pages
+                                     * Conversation with notes for studying
 
 ### Skills
 
