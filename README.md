@@ -8,10 +8,7 @@ Computer Science Student @ UTRGV | Research Assistant @ Multiple Autonomous Robo
 * ✉️  You can contact me at [p.biteng11@gmail.com](mailto:p.biteng11@gmail.com)
 * 📖  Research:
              * Multiple Autonomous Robot Swarm Lab - Training Adaptive Foraging Behavior for Robot Swarms with Distributed Neuroevolution of Augmented Topologies
-* 🧠  Current personal projects: App for Pre-Med students that leverages AI to help with studying.
-       Current AI features planned:  * Anki generated falshcard set from notes
-                                     * Summarization of selected pages
-                                     * Conversation with notes for studying
+
 
 ### Skills
 
